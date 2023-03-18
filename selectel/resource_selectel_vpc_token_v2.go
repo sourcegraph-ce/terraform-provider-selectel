@@ -2,7 +2,7 @@ package selectel
 
 import (
 	"context"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
